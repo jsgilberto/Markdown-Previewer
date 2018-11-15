@@ -1,8 +1,13 @@
 # Markdown Previewer
+
 ## Built a Markdown Live Previewer with marked.js
+
 In this project I used a mix of HTML, JavaScript, CSS and React.
 
+![markdown](markdownpreviewer.gif)
+
 ## Install
+
 Make you sure you have installed Node (if not, you can download it from [here](https://nodejs.org/en/download/)).
 
 Clone the repo to your computer and install dependencies:
@@ -13,6 +18,7 @@ $ npm install
 ```
 
 ## Usage
+
 Once you have the repo in your local computer, go into the repo and run the following command:
 ```
 $ npm start
